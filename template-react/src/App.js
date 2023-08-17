@@ -27,7 +27,7 @@
     };
 
     return (
-      <div className="Form"> {/* Agrega la clase CSS Form */}
+      <div className="Form"> {}
         <h1>Hola, soy MusiBot. Dime qué canción y artista te gusta escuchar.</h1>
         <form onSubmit={handleSubmit}>
         <div>
